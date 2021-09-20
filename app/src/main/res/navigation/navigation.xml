@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/splashFragment">
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.mr.bootcampweek3.ui.SplashFragment"
+        android:label="fragment_splash"
+        tools:layout="@layout/fragment_splash">
+        <action
+            android:id="@+id/action_splashFragment_to_fragment1"
+            app:destination="@id/fragment1"
+            app:enterAnim="@anim/enter_from_right"
+            app:exitAnim="@anim/exit_to_left"
+            app:popEnterAnim="@anim/enter_from_left"
+            app:popExitAnim="@anim/exit_to_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragment1"
+        android:name="com.mr.bootcampweek3.ui.BattleFragment"
+        android:label="Fragment1"
+        tools:layout="@layout/fragment_battle">
+        <action
+            android:id="@+id/action_fragment1_to_fragment2"
+            app:destination="@id/fragment2"
+            app:enterAnim="@anim/enter_from_right"
+            app:exitAnim="@anim/exit_to_left"
+            app:popEnterAnim="@anim/enter_from_left"
+            app:popExitAnim="@anim/exit_to_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragment2"
+        android:name="com.mr.bootcampweek3.ui.DeckFragment"
+        android:label="Fragment2"
+
+        tools:layout="@layout/fragment_deck">
+        <action
+            android:id="@+id/action_fragment2_to_fragment33"
+            app:destination="@id/fragment3"
+            app:enterAnim="@anim/slide_up"
+            app:exitAnim="@anim/slide_down" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragment3"
+        android:name="com.mr.bootcampweek3.ui.ProfileFragment"
+        android:label="Fragment3"
+        tools:layout="@layout/fragment_profile">
+        <action
+            android:id="@+id/action_fragment3_to_fragment4"
+            app:destination="@id/fragment4"
+            app:enterAnim="@anim/slide_up"
+            app:exitAnim="@anim/slide_up"
+            app:popEnterAnim="@anim/slide_down"
+            app:popExitAnim="@anim/slide_down" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragment4"
+        android:name="com.mr.bootcampweek3.ui.AvatarFragment"
+        android:label="Fragment4"
+        tools:layout="@layout/fragment_avatar" />
+
+</navigation>

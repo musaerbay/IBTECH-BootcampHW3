@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Bootcampweek3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- NavigationBottom bar Bottoms -->
+    <string name="battle">Battle</string>
+    <string name="deck">Decklerim</string>
+    <string name="profile">Profile</string>
+
+    <!-- Fragments -->
+    <string name="empty_state_title">Empty State Title</string>
+    <string name="empty_state_sub_word">Empty State sub word</string>
+    <string name="_700">700</string>
+    <string name="puan">Puan</string>
+    <string name="level_15">Level 15</string>
+    <string name="ki_oyuncu">İki Oyuncu</string>
+    <string name="Simdi_oyna"><![CDATA[Şimdi Oyna >]]></string>
+    <string name="tek_oyuncu">Tek Oyuncu</string>
+    <string name="simdi_oyna_2"><![CDATA[Şimdi Oyna >]]></string>
+    <string name="battle_top_image">battle top image</string>
+    <string name="battle_bottom_image">battle bottom image</string>
+    <string name="john_doe">John Doe</string>
+    <string name="_12">12</string>
+    <string name="_9">9</string>
+    <string name="basari">Başarı</string>
+    <string name="follow_me">Bizi Takip Edin</string>
+</resources>

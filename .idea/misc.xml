@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/debug/res/drawable/bottom_bar_round_corners.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/debug/res/drawable/bottombar_round_corners.xml" value="0.3828125" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable-v24/wrong_outline_foreground.xml" value="0.3151041666666667" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/battle_level_bar.xml" value="0.2375" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/bottom_battle.xml" value="0.3828125" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/bottombar_icon_colors.xml" value="0.3828125" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/bottombar_icons_color.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/checked_checkbox.xml" value="0.37083333333333335" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/gradient_basefragmen.xml" value="0.3828125" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/gradient_battle_fragment.xml" value="0.3828125" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/ic_add_to_deck.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/ic_added_to_deck.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/ic_avator_woman.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/ic_battle_bottom.xml" value="0.3828125" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/ic_battle_bottom_image.xml" value="0.3828125" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/ic_battle_puan_level.xml" value="0.3828125" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/ic_battle_top.xml" value="0.3828125" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/ic_close.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/ic_splash.xml" value="0.3151041666666667" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/ic_splash_logo.xml" value="0.3828125" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/ic_success_outline.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/profile_ba_ar__image.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/profile_battle_image.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/profile_decky_nedir.xml" value="0.2989583333333333" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/profile_photo.xml" value="0.2989583333333333" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/profile_photo_background.xml" value="0.2989583333333333" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/rounded_shape.xml" value="0.3828125" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/rounded_shape_2.xml" value="0.3828125" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/rounded_shape_white_bg.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/sss.xml" value="0.3046875" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/unchecked_checkbox.xml" value="0.37083333333333335" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/drawable/wrong_outline_background.xml" value="0.3151041666666667" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/layout/deneme.xml" value="0.28854166666666664" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/layout/fragment_1.xml" value="0.33" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/layout/fragment_2.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/layout/fragment_3.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/layout/fragment_4.xml" value="0.26481481481481484" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/layout/fragment_avatar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/layout/fragment_battle.xml" value="0.33" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/layout/fragment_deck.xml" value="0.25" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/layout/fragment_recyclerview_sample.xml" value="0.33" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/layout/fragment_splash.xml" value="0.22" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/layout/row_avatar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/layout/row_card_as_choice.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/layout/row_text.xml" value="0.33" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/layout/row_word.xml" value="0.33" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/layout/row_word_another.xml" value="0.33" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/menu/bottom_menu.xml" value="0.33" />
+        <entry key="..\:/Users/musa4/Desktop/BootcampHW/Bootcampweek3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/musa4/Desktop/Bootcampweek3/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/musa4/Desktop/Bootcampweek3/app/src/main/res/layout/fragment_1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/musa4/Desktop/Bootcampweek3/app/src/main/res/layout/fragment_2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/musa4/Desktop/Bootcampweek3/app/src/main/res/layout/fragment_3.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/musa4/Desktop/Bootcampweek3/app/src/main/res/layout/fragment_4.xml" value="0.1" />
+        <entry key="..\:/Users/musa4/Desktop/Bootcampweek3/app/src/main/res/layout/row_word.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
