@@ -8,7 +8,7 @@
      * We press edit_avatar_button (Pencil) go fifth screen.
 * Fifth screen (Avatar screen) : We can slect one avatar here.
 * Sixth screen (Pop-up_Screen) : If we press the back button in the main menu ; this pop-up appears. 
-    * Evet = exit the application  
+    * Evet = Exit the application  
     * Hayır = Return to menü
 
 ![Splash_screen](https://user-images.githubusercontent.com/81637840/133948335-43682576-63a1-425a-b5f1-bb748ae7d098.png)
